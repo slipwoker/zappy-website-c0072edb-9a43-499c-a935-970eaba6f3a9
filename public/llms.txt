@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://-c0072edb.zappy5.app
+https://example.com
 ברוכים הבאים ליוצאים מהכלים בקריית מלאכי! חנות הכלים החד פעמיים הכי כיפית עם מגוון ענק למסיבות, אירועים ויומיום. בואו להתאהב בכלים שיוציאו אתכם מהשגרה.
 
 ### פתרונות לאירועים
-https://-c0072edb.zappy5.app/event-solutions
+https://example.com/event-solutions
 מתכננים אירוע? גלו פתרונות כלים חד פעמיים מעוצבים שיהפכו כל שולחן לחגיגה אמיתית. ייעוץ אישי מאמיתי ואורית שיוציא לכם את האירוע מהכלים בדרך הכי יפה.
 
 ### גלריה
-https://-c0072edb.zappy5.app/gallery
+https://example.com/gallery
 היכנסו לגלריה של יוצאים מהכלים ותראו איך כלים חד פעמיים יכולים להפוך כל אירוע ליצירת מופת. תמונות מעוררות השראה שיוכיחו לכם שאפשר גם אחרת.
 
 ### אודות
-https://-c0072edb.zappy5.app/about
+https://example.com/about
 הכירו את אמיתי ואורית, הלב של יוצאים מהכלים בקריית מלאכי. למה בחרנו בשם המשוגע הזה? ואיך הפכנו חנות כלים חד פעמיים לחוויה שמוציאה לקוחות מהכלים?
 
 ### צור קשר
-https://-c0072edb.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם יוצאים מהכלים עוד היום! אנחנו בקריית מלאכי מחכים לכם עם חיוך, ייעוץ חינם וכלים חד פעמיים שיעשו לכם את היום. בואו נדבר על האירוע שלכם.
 
 ### Products
-https://-c0072edb.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - יוצאים מהכלים
 
 ### Product Detail
-https://-c0072edb.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - יוצאים מהכלים
 
 ### Category
-https://-c0072edb.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - יוצאים מהכלים
 
 ### תודה שפניתם אלינו
-https://-c0072edb.zappy5.app/thank-you
+https://example.com/thank-you
 יוצאים מהכלים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c0072edb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c0072edb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c0072edb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -85,8 +85,8 @@ Retail - Disposable Products
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-c0072edb.zappy5.app/sitemap.xml
-- Robots: https://-c0072edb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-c0072edb.zappy5.app/llms-full.txt
-- Products (JSON): https://-c0072edb.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-c0072edb.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
