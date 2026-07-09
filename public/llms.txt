@@ -1,0 +1,92 @@
+# יוצאים מהכלים — Generative Engine Optimization Map
+
+> A retail store called 'יוצאים מהכלים' (a Hebrew pun meaning both 'going crazy' and 'coming out of the dishes/utensils') located in Kiryat Malachi, specializing in disposable tableware and utensils. The store has a fun, playful name that reflects a lighthearted brand personality. Operating hours are Sunday through Thursday 9:00–18:00, and Friday 8:30–14:00. Contact persons are Amit and Orit.
+
+---
+
+## Pages
+
+### בית
+https://-c0072edb.zappy5.app
+ברוכים הבאים ליוצאים מהכלים בקריית מלאכי! חנות הכלים החד פעמיים הכי כיפית עם מגוון ענק למסיבות, אירועים ויומיום. בואו להתאהב בכלים שיוציאו אתכם מהשגרה.
+
+### פתרונות לאירועים
+https://-c0072edb.zappy5.app/event-solutions
+מתכננים אירוע? גלו פתרונות כלים חד פעמיים מעוצבים שיהפכו כל שולחן לחגיגה אמיתית. ייעוץ אישי מאמיתי ואורית שיוציא לכם את האירוע מהכלים בדרך הכי יפה.
+
+### גלריה
+https://-c0072edb.zappy5.app/gallery
+היכנסו לגלריה של יוצאים מהכלים ותראו איך כלים חד פעמיים יכולים להפוך כל אירוע ליצירת מופת. תמונות מעוררות השראה שיוכיחו לכם שאפשר גם אחרת.
+
+### אודות
+https://-c0072edb.zappy5.app/about
+הכירו את אמיתי ואורית, הלב של יוצאים מהכלים בקריית מלאכי. למה בחרנו בשם המשוגע הזה? ואיך הפכנו חנות כלים חד פעמיים לחוויה שמוציאה לקוחות מהכלים?
+
+### צור קשר
+https://-c0072edb.zappy5.app/contact
+צרו קשר עם יוצאים מהכלים עוד היום! אנחנו בקריית מלאכי מחכים לכם עם חיוך, ייעוץ חינם וכלים חד פעמיים שיעשו לכם את היום. בואו נדבר על האירוע שלכם.
+
+### Products
+https://-c0072edb.zappy5.app/products
+המוצרים שלנו - יוצאים מהכלים
+
+### Product Detail
+https://-c0072edb.zappy5.app/product/:slug
+פרטי המוצר - יוצאים מהכלים
+
+### Category
+https://-c0072edb.zappy5.app/category/:slug
+מוצרים - יוצאים מהכלים
+
+### תודה שפניתם אלינו
+https://-c0072edb.zappy5.app/thank-you
+יוצאים מהכלים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c0072edb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c0072edb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c0072edb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יוצאים מהכלים
+A retail store called 'יוצאים מהכלים' (a Hebrew pun meaning both 'going crazy' and 'coming out of the dishes/utensils') located in Kiryat Malachi, specializing in disposable tableware and utensils. The store has a fun, playful name that reflects a lighthearted brand personality. Operating hours are Sunday through Thursday 9:00–18:00, and Friday 8:30–14:00. Contact persons are Amit and Orit.
+
+## Services/Products
+- כלים חד פעמיים
+
+## Target Audience
+- מתכנני מסיבות
+- מארגני אירועים עסקיים
+- חברות קייטרינג
+- לקוחות פרטיים
+
+## Industry
+Retail - Disposable Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c0072edb.zappy5.app/sitemap.xml
+- Robots: https://-c0072edb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c0072edb.zappy5.app/llms-full.txt
+- Products (JSON): https://-c0072edb.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-c0072edb.zappy5.app/product-feed.xml
