@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://example.com
+https://yotzimmehakelim.zappy5.app
 ברוכים הבאים ליוצאים מהכלים בקריית מלאכי! חנות הכלים החד פעמיים הכי כיפית עם מגוון ענק למסיבות, אירועים ויומיום. בואו להתאהב בכלים שיוציאו אתכם מהשגרה.
 
 ### פתרונות לאירועים
-https://example.com/event-solutions
+https://yotzimmehakelim.zappy5.app/event-solutions
 מתכננים אירוע? גלו פתרונות כלים חד פעמיים מעוצבים שיהפכו כל שולחן לחגיגה אמיתית. ייעוץ אישי מאמיתי ואורית שיוציא לכם את האירוע מהכלים בדרך הכי יפה.
 
 ### גלריה
-https://example.com/gallery
+https://yotzimmehakelim.zappy5.app/gallery
 היכנסו לגלריה של יוצאים מהכלים ותראו איך כלים חד פעמיים יכולים להפוך כל אירוע ליצירת מופת. תמונות מעוררות השראה שיוכיחו לכם שאפשר גם אחרת.
 
 ### אודות
-https://example.com/about
+https://yotzimmehakelim.zappy5.app/about
 הכירו את אמיתי ואורית, הלב של יוצאים מהכלים בקריית מלאכי. למה בחרנו בשם המשוגע הזה? ואיך הפכנו חנות כלים חד פעמיים לחוויה שמוציאה לקוחות מהכלים?
 
 ### צור קשר
-https://example.com/contact
+https://yotzimmehakelim.zappy5.app/contact
 צרו קשר עם יוצאים מהכלים עוד היום! אנחנו בקריית מלאכי מחכים לכם עם חיוך, ייעוץ חינם וכלים חד פעמיים שיעשו לכם את היום. בואו נדבר על האירוע שלכם.
 
 ### Products
-https://example.com/products
+https://yotzimmehakelim.zappy5.app/products
 המוצרים שלנו - יוצאים מהכלים
 
 ### Product Detail
-https://example.com/product/:slug
+https://yotzimmehakelim.zappy5.app/product/:slug
 פרטי המוצר - יוצאים מהכלים
 
 ### Category
-https://example.com/category/:slug
+https://yotzimmehakelim.zappy5.app/category/:slug
 מוצרים - יוצאים מהכלים
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://yotzimmehakelim.zappy5.app/thank-you
 יוצאים מהכלים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yotzimmehakelim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yotzimmehakelim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yotzimmehakelim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -85,8 +85,8 @@ Retail - Disposable Products
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://yotzimmehakelim.zappy5.app/sitemap.xml
+- Robots: https://yotzimmehakelim.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yotzimmehakelim.zappy5.app/llms-full.txt
+- Products (JSON): https://yotzimmehakelim.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yotzimmehakelim.zappy5.app/product-feed.xml
